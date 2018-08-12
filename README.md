@@ -2,10 +2,10 @@
 
 I have developed the following Domoticz plugins:
 
-| Name                  | Link
-| :---                  | :---
-| Countdown             | https://github.com/Xorfor/Domoticz-Countdown-Plugin
-| Disc usage            | https://github.com/Xorfor/Domoticz-Disc-usage-Plugin
+| Name                                                               | Description
+| :---                                                               | :---
+| [Countdown](https://github.com/Xorfor/Domoticz-Countdown-Plugin)   | This switch will countdown the specified minutes
+| [Disc usage](https://github.com/Xorfor/Domoticz-Disc-usage-Plugin) | Displays the usage of the specified disc
 | Mac Presence          | https://github.com/Xorfor/Domoticz-Mac-Presence-Plugin
 | Last Dutch Earthquake | https://github.com/Xorfor/Domoticz-LastDutchEarthquake-Plugin
 | OpenAQ                | https://github.com/Xorfor/Domoticz-OpenAQ-Plugin
