@@ -12,7 +12,7 @@ I have developed the following Domoticz plugins:
 | OpenUV                | https://github.com/Xorfor/Domoticz-OpenUV-Plugin
 | Pi-hole               | https://github.com/Xorfor/Domoticz-Pi-hole-Plugin
 | PiMonitor             | https://github.com/Xorfor/Domoticz-PiMonitor-Plugin
-| Sppedtest             | https://github.com/Xorfor/Domoticz-Speedtest-Plugin
+| Speedtest             | https://github.com/Xorfor/Domoticz-Speedtest-Plugin
 | Weatherbit            | https://github.com/Xorfor/Domoticz-Weatherbit-Plugin
 | WindCentrale          | https://github.com/Xorfor/Domoticz-Windcentrale-Plugin 
 | Ziggo Horizon         | https://github.com/Xorfor/Domoticz-ZiggoHorizon-Plugin
