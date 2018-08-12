@@ -10,9 +10,9 @@ I have developed the following Domoticz plugins:
 | [Last Dutch Earthquake](https://github.com/Xorfor/Domoticz-LastDutchEarthquake-Plugin) | Reports the last Dutch eartquake, with location in Google Maps and strength.
 | [OpenAQ](https://github.com/Xorfor/Domoticz-OpenAQ-Plugin)                             | Monitors the air quality. Uses the location specified in Domoticz.
 | [OpenUV](https://github.com/Xorfor/Domoticz-OpenUV-Plugin)                             | Reports the actual UV Index. . Uses the location specified in Domoticz.
-| Pi-hole               | https://github.com/Xorfor/Domoticz-Pi-hole-Plugin
-| PiMonitor             | https://github.com/Xorfor/Domoticz-PiMonitor-Plugin
-| Speedtest             | https://github.com/Xorfor/Domoticz-Speedtest-Plugin
-| Weatherbit            | https://github.com/Xorfor/Domoticz-Weatherbit-Plugin
-| WindCentrale          | https://github.com/Xorfor/Domoticz-Windcentrale-Plugin 
-| Ziggo Horizon         | https://github.com/Xorfor/Domoticz-ZiggoHorizon-Plugin
+| [Pi-hole](https://github.com/Xorfor/Domoticz-Pi-hole-Plugin)                           | Displays statistics of Pi-hole and also enables you to switch on/off Pi-hole
+| [PiMonitor](https://github.com/Xorfor/Domoticz-PiMonitor-Plugin)                       | Monitors temperature, cpu, memory, etc. of the Raspberry Pi used for Domoticz
+| [Speedtest](https://github.com/Xorfor/Domoticz-Speedtest-Plugin)                       | Monitors your internet speed
+| [Weatherbit](https://github.com/Xorfor/Domoticz-Weatherbit-Plugin)                     | (Another) weather monitor :)
+| [WindCentrale](https://github.com/Xorfor/Domoticz-Windcentrale-Plugin)                 | Like the standard Winddelen hardware, however this plugin shows moer information, like windspeed, rpm, etc.
+| [Ziggo Horizon](https://github.com/Xorfor/Domoticz-ZiggoHorizon-Plugin)                | Creates a remote control for the Ziggo Horizon box in Domoticz
