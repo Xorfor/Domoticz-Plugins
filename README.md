@@ -1,4 +1,4 @@
-# Domoticz-Plugins
+# Domoticz plugins
 
 I have developed the following Domoticz plugins:
 
