@@ -5,6 +5,7 @@ I have developed the following Domoticz plugins:
 | Name                                                                                   | Description
 | :---                                                                                   | :---
 | [Countdown](https://github.com/Xorfor/Domoticz-Countdown-Plugin)                       | This switch will countdown the specified minutes. Possible to restart the countdown, eg. when motion is detected.
+| [DarkSky](https://github.com/Xorfor/Domoticz-DarkSky-Plugin)                           | DarkSky weather lookup. Uses the location specified in Domoticz.
 | [Disc usage](https://github.com/Xorfor/Domoticz-Disc-usage-Plugin)                     | Displays the usage of the specified disc. Great to monitor your NAS!
 | [Mac Presence](https://github.com/Xorfor/Domoticz-Mac-Presence-Plugin)                 | Detects the specified mac addresses in your network.
 | [Last Dutch Earthquake](https://github.com/Xorfor/Domoticz-LastDutchEarthquake-Plugin) | Reports the last Dutch eartquake, with location in Google Maps and strength.
