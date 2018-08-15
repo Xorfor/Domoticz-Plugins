@@ -15,5 +15,5 @@ I have developed the following Domoticz plugins:
 | [PiMonitor](https://github.com/Xorfor/Domoticz-PiMonitor-Plugin)                       | Monitors temperature, cpu, memory, etc. of the Raspberry Pi used for Domoticz
 | [Speedtest](https://github.com/Xorfor/Domoticz-Speedtest-Plugin)                       | Monitors your internet speed
 | [Weatherbit](https://github.com/Xorfor/Domoticz-Weatherbit-Plugin)                     | (Another) weather monitor :)
-| [WindCentrale](https://github.com/Xorfor/Domoticz-Windcentrale-Plugin)                 | Like the standard Winddelen hardware, however this plugin shows moer information, like windspeed, rpm, etc.
+| [WindCentrale](https://github.com/Xorfor/Domoticz-Windcentrale-Plugin)                 | Like the standard Winddelen hardware, however this plugin shows more information, like windspeed, rpm, etc.
 | [Ziggo Horizon](https://github.com/Xorfor/Domoticz-ZiggoHorizon-Plugin)                | Creates a remote control for the Ziggo Horizon box in Domoticz
